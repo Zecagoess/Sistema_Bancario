@@ -12,13 +12,6 @@ Esta API REST foi desenvolvida em JavaScript e segue o padrão REST. Ela permite
 - Consultar saldo da conta bancária
 - Emitir extrato bancário
 
-## Instalação
-
-Para instalar as dependências, execute o seguinte comando:
-
-Código gerado por IA. Examine e use com cuidado. Mais informações em perguntas frequentes.
-npm install
-
 
 ## Uso
 
